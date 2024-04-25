@@ -19,6 +19,7 @@ Sales Analytics
 Technical & Soft Skills:
 
 Proficiency in ETL methodology (Extract, Transform, Load).
+
 ● Skills to generate a date table using Power Query.
 ● Ability to derive fiscal months and quarters.
 ● Establishing data model relationships with Power Pivot.
